@@ -1,0 +1,16 @@
+h1{
+    color: rgb(252, 71, 204);
+}
+
+button {
+    /* Important - altera a ordem de importância */
+    /* background-color: rgb(171, 255, 4) !important; */
+}
+
+
+@media (min-width: 768px) { 
+    h1 {
+        color: aqua;
+    }
+    
+ }
