@@ -1,3 +1,4 @@
+/* Estilos gerais */
 * {
     color: #25282e;
 }
@@ -11,6 +12,7 @@ a, i {
     color: #555;
 }
 
+/* Técnica para deixar todas as fotos alinhadas */
 .center-image {
     background-size: cover;
     background-position: center;
@@ -28,6 +30,8 @@ a, i {
     background-color: #333;
     color: #fff;
 }
+
+/* Header */
 
 #header {
     text-align: center;
@@ -49,6 +53,7 @@ a, i {
     margin-right: 15px;
 }
 
+/* Navbar */
 #navbar {
     padding: 10px;
     margin: 10px auto;
@@ -63,6 +68,7 @@ a, i {
     color: #c1b696;
 }
 
+/* Banner principal */
 .main-image {
     height: 400px;
     background-image: url(img/g_1.jpg);
@@ -78,6 +84,7 @@ a, i {
     bottom: 25px;
 }
 
+/* Galeria de imagens */
 #img2 {
     background-image: url(img/g_2.jpg);
 }
@@ -109,6 +116,7 @@ a, i {
     margin-bottom: 0px;
 }
 
+/* Footer */
 footer {
     border-top: 1px solid #ccc;
     height: 250px;
